@@ -27,3 +27,9 @@ Git spurningar og svor
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 	A 30 minuta fresti svo ad thu missir ekki of mikid ef td. rafmagnid slaer ut.
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	"Working directory" er svaedid thar sem thu skrifar kodan.
+	"Staging area" er svaedid thar sem thu situr allt sem thu aetlar ad senda til gitid er.
+	"Repository" er svaedid thar sem kodin er sendur til i gitinu.
+
