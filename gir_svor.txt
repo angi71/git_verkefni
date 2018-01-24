@@ -6,3 +6,10 @@ Git spurningar og svor
 	ls - synir hvad er i svaedinu thar sem thu ert i.
 	pwd - Synir hvar thu ert i tolvuni.
 	mkdir - byr til nyja moppu.
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - clonar hlut i nyja moppu svo thu getur farid i hlutin a betri stad. 
+	git log - synir hvad thu hefur gert thanig ad thu veist hvad thu hefur gert.
+	git status - synir stoduna a gitinu svo thu veist stoduna a gitinu.
+	git diff - synir breytingar a milli commit og worcking tree og meira svo thu veist hvad hefur breyst.
+	git checkout - uppfaerid tred svo ad thad er uppfaert
