@@ -19,3 +19,5 @@ Git spurningar og svor
 	b) git diff --staged - synir muninn a milli staged.
 	c) git diff commit1 commit2 - synir muninn a milli commits.
 
+4. 	Hvað er útgáfustýring (e.version control)?
+	Utgafustyring er kerfi sem tekur upp thad sem thu hefur gert i skrani
