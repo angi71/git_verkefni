@@ -24,4 +24,6 @@ Git spurningar og svor
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Helstu kostinir vid git eru ad med thvi ad nota thad ertu alltaf med afrit af thvi sem thu ert ad gera og getur opnad thad i hvada taeki sem er.
-	
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	A 30 minuta fresti svo ad thu missir ekki of mikid ef td. rafmagnid slaer ut.
