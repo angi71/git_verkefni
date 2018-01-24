@@ -13,3 +13,9 @@ Git spurningar og svor
 	git status - synir stoduna a gitinu svo thu veist stoduna a gitinu.
 	git diff - synir breytingar a milli commit og worcking tree og meira svo thu veist hvad hefur breyst.
 	git checkout - uppfaerid tred svo ad thad er uppfaert
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff - eggert gerist
+	b) git diff --staged - synir muninn a milli staged.
+	c) git diff commit1 commit2 - synir muninn a milli commits.
+
