@@ -1,1 +1,8 @@
 Git spurningar og svor
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd - faerir thig til adra moppu.
+	cd ~ - faerir thig til heimasvaedid.
+	ls - synir hvad er i svaedinu thar sem thu ert i.
+	pwd - Synir hvar thu ert i tolvuni.
+	mkdir - byr til nyja moppu.
