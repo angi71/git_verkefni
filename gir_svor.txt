@@ -33,3 +33,6 @@ Git spurningar og svor
 	"Staging area" er svaedid thar sem thu situr allt sem thu aetlar ad senda til gitid er.
 	"Repository" er svaedid thar sem kodin er sendur til i gitinu.
 
+8.	Hvenær er sniðugt að nota greinar (branches)?
+	Ef thu aetlar kanski ad baeta vid nyri skra vid en that gaeti kanski ekki verid god hugmynd.
+
